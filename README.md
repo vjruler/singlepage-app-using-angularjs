@@ -1,1 +1,0 @@
-# singlepage-app-using-angularjs
